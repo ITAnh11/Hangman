@@ -16,6 +16,11 @@ Chạy lệnh sau để xây dựng chương trình sử dụng Makefile:
 make
 ```
 
+Nếu không chạy được makefile thì dùng lệnh sau:
+```bash
+g++ main.cpp hangman.cpp draw.cpp -o game
+```
+
 ### Bước 2: Chạy Chương Trình
 
 Chạy lệnh sau :
